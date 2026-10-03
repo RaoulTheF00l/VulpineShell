@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Test/cache files
+.pytest_cache/
+.ruff_cache/
+
+# IDE
+.vscode/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Vulpine runtime data
+data/
+logs/
